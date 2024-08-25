@@ -1,5 +1,3 @@
-# IF YOU SEE THIS HEADER THIS IS A TEST.
-[TEST](https://gabalpha.github.io/read-audio/?p=http://streaming04.liveboxstream.uk:8116/stream)
 
 # Genre playlists can be found at
 https://github.com/0zBug/Music/tree/main/m3u
