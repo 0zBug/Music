@@ -1,0 +1,12 @@
+# pranks
+
+[Kaset Fm Live](http://176.31.105.44:9934/stream/1)
+
+[Watson N Watson](http://www.blogtalkradio.com/goodcomic)
+
+[Comedy104](http://www.star104.net/player/id/20)
+
+[Blue Planet Prank Radio](http://173.192.48.97:8265/stream/1)
+
+[Radioprank Com](http://streaming.live365.com/funmaster)
+

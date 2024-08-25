@@ -1,0 +1,4 @@
+# loca_st
+
+[Rádio Fair Play São Tomé e Príncipe](https://stream.zeno.fm/z6kdmhgwcmktv?utm_source=radio-browser.info?n=6073348c8d46c5d904bb)
+

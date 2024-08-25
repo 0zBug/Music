@@ -1,0 +1,4 @@
+# shimaore
+
+[Mayotte La 1ère](https://mayotte.ice.infomaniak.ch/mayotte-128.mp3)
+
