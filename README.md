@@ -1,4 +1,4 @@
-# Live radio collection
+# Live music collection
 
 ## Genre playlists can be found at (m3u file)
 [m3u](https://github.com/0zBug/Music/tree/main/m3u)
