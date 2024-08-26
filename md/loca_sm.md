@@ -1,0 +1,10 @@
+# loca_sm
+
+[Radio San Marino](https://d18ufyp3q60j7u.cloudfront.net/radio-ch01/radio-ch01/playlist.m3u8?n=0857ad7ec3b78af98c78)
+
+[Radio San Marino Classic](http://d18ufyp3q60j7u.cloudfront.net/radio-ch01/radio-ch02/playlist.m3u8?n=305ab3e7a9ff6e82baff)
+
+[translation of the Quran in Italian](https://server3.quraan.us:8040/?n=69133f41e3c478089c2a)
+
+[USMARADIO](http://usmaradio.out.airtime.pro:8000/usmaradio_a?n=c669e60773201ce815a6)
+
