@@ -1,0 +1,77 @@
+/* 
+
+    BUGTUNES.SCOT.WTF
+    - Written by scot
+    
+    <3 ty for making this site bug
+
+*/
+
+@import url('https://api.fonts.coollabs.io/css2?family=Poppins&display=swap');
+
+body {
+    font-family: "Poppins";
+    margin-left: 10%;
+    margin-right: 10%;
+    margin-top: 5%;
+}
+
+@media (prefers-color-scheme: light) {
+    body {
+        background-color: #f9f9f9;
+        background-image: url('./img/noisybg.png');
+        color: #454545;
+    }
+
+    a:link {
+        color: #707070;
+        background-color: transparent;
+        text-decoration: none;
+    }
+    
+    a:hover {
+        color: #808080;
+        background-color: transparent;
+        text-decoration: underline;
+    }
+}
+
+@media (prefers-color-scheme: dark) {
+    body {
+        background-color: #131521;
+        background-image: url('./img/darknoisybg.png');
+        color: #e0e3ee;
+    }
+    
+    h2 {
+        color: #d8d8d8;
+    }
+
+    a:link {
+        color: #6f727d;
+        background-color: transparent;
+        text-decoration: none;
+    }
+    
+    a:hover {
+        color: #d0d0d0;
+        background-color: transparent;
+        text-decoration: underline;
+    }
+}
+
+a:visited {
+    color: #9970b9;
+    color:var(--color);
+    background-color: transparent;
+    text-decoration: none;
+}
+
+h1 {
+    font-weight: bolder;
+    font-size: 350%;
+}
+
+h2 {
+    font-weight: 500;
+}
