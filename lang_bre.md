@@ -1,4 +1,0 @@
-# lang_bre
-
-[Radio Kerne 90.2 FM](http://radiokerne.ice.infomaniak.ch/radiokerne-192.mp3)
-

@@ -1,4 +1,0 @@
-# philipino
-
-[Rakista Radio (mp3, 32 kbps)](http://206.190.138.196:8000/listen32.mp3)
-

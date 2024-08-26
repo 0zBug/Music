@@ -1,4 +1,0 @@
-# tepehua
-
-[Radio Huayacocotla: La Voz Campesina - 105.5 FM - XHFCE-FM - Fomento Cultural y Educativo, A.C. - Huayacocotla, VE](http://radiohuaya.iberopuebla.edu.mx:8000/xhfce)
-

@@ -1,4 +1,0 @@
-# lang_sit
-
-[Voice of America - Tibetan](http://voa-12.akacast.akamaistream.net/7/320/322024/v1/ibb.akacast.akamaistream.net/voa-12)
-

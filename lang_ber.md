@@ -1,4 +1,0 @@
-# lang_ber
-
-[Antinea Radio](http://listen.radioking.com/radio/6640/stream/347)
-

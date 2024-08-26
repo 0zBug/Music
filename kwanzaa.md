@@ -1,4 +1,0 @@
-# kwanzaa
-
-[Capacitate OnLine](http://167.114.172.18:9948)
-

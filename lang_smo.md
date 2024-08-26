@@ -1,4 +1,0 @@
-# lang_smo
-
-[Radio Samoa 1593 AM](http://radiosamoa.stream.broadcast.co.nz:8000/rsamoa48k)
-

@@ -1,4 +1,0 @@
-# loca_ck
-
-[Matariki FM 99.9 Matavera](http://amber.streamguys.com:4070/?n=95ec8f92c4f9e5ddab7f)
-
