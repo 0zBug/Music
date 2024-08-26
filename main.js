@@ -16,3 +16,9 @@ while (coloredElements.size < numberOfElementsToColor) {
         page.style.color = randomColor;
     }
 }
+
+document.querySelectorAll("a").forEach(function(link){
+    var color = colors[colorIndex];
+    link.style.setProperty('--color', colors[Math.floor(Math.random() * colors.length)]);
+    colorIndex = (colorIndex + 1) % colors.length;
+});
